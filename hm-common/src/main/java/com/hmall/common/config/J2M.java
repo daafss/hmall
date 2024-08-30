@@ -1,4 +1,4 @@
-package com.hmall.trade.config;
+package com.hmall.common.config;
 
 import cn.hutool.core.util.ObjectUtil;
 import com.hmall.common.utils.UserContext;
